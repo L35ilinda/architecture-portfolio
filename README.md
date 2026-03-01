@@ -1,1 +1,1 @@
-# archtecture-portfolio
+# architecture-portfolio
